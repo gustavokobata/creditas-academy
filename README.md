@@ -2,7 +2,7 @@
 
 CREDITAS - CULINÁRIA ORIENTAL
 
-INDEX: https://gustavokobata.github.io/creditas-academy/index.htmlhttps://gustavokobata.github.io/creditas-academy/index.html
+INDEX: https://gustavokobata.github.io/creditas-academy/index.html
 <br>
 <br>
 LAYOUT FIXO: https://gustavokobata.github.io/creditas-academy/fixo/home-fixo.html
