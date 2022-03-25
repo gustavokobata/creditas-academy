@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Quicksand', 'icones', sans-serif;
-    background-color: rgb(66, 8, 8);
+    background-color: white;
 }
 
 /* FLOAT - para posicionar o menu à esquerda e o conteúdo à direita*/
@@ -19,9 +19,7 @@ body {
     width: 250px;
     height: 100vw;
     background-color: rgb(66, 8, 8);
-    position: fixed; /* para o menu ficar fixo */<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap" rel="stylesheet">
+    position: fixed; /* para o menu ficar fixo */
 }
 
 .float-conteudo {
@@ -237,7 +235,7 @@ footer {
 }
 
 .sushi-footer {
-    margin-top: 35px;
+    margin-top: 40.5vh;
     float: right;
 }
 
@@ -318,7 +316,7 @@ footer {
 }
 
 .doces-footer {
-    margin-top: 35px;
+    margin-top: 40.5vh;
     float: right;
 }
 
@@ -407,7 +405,7 @@ footer {
 }
 
 .quemsomos-footer {
-    margin-top: 50px;
+    margin-top: 42vh;
     float: right;
 }
 /* quemsomos.html */
@@ -480,5 +478,9 @@ footer {
     float: right;
     width: 345px;
     height: 400px;
+}
+
+.contato-footer {
+    margin-top: 90vh;
 }
 /* contato.html */

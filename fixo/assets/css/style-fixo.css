@@ -231,7 +231,7 @@ footer {
 }
 
 .sushi-footer {
-    margin-top: 35px;
+    margin-top: 38vh;
     float: right;
 }
 
@@ -312,7 +312,7 @@ footer {
 }
 
 .doces-footer {
-    margin-top: 35px;
+    margin-top: 38vh;
     float: right;
 }
 
@@ -401,7 +401,7 @@ footer {
 }
 
 .quemsomos-footer {
-    margin-top: 50px;
+    margin-top: 40vh;
     float: right;
 }
 /* quemsomos.html */
@@ -421,10 +421,6 @@ footer {
     color: white;
     padding-top: 35px;
     padding-bottom: 25px;
- }
-
- .forms {
-     
  }
 
  .titulo-pergunta {
@@ -474,5 +470,9 @@ footer {
     float: right;
     width: 345px;
     height: 400px;
+}
+
+.contato-footer {
+    margin-top: 90vh;
 }
 /* contato.html */
